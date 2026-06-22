@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [1189-maximum-number-of-balloons](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [1189-maximum-number-of-balloons](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
