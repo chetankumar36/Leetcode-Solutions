@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [1833-maximum-ice-cream-bars](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [1189-maximum-number-of-balloons](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
