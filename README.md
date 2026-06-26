@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [1833-maximum-ice-cream-bars](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
@@ -35,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1833-maximum-ice-cream-bars](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
@@ -63,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
