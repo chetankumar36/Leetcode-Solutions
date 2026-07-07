@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [1833-maximum-ice-cream-bars](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
