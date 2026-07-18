@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/chetankumar36/Leetcode-Solutions/tree/master/0704-binary-search) |
 ## Simulation
